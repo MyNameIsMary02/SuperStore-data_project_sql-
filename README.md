@@ -1,0 +1,1 @@
+Hi everyone, here you can find my first small project in Data analysis. It was complete in AZURE Data Studio with SQLQuery. 
